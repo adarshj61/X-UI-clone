@@ -20,7 +20,7 @@ The goal was to closely match the real Twitter interface while keeping the code 
 
 ## 🚀 Features
 
-- 🖥️ Responsive layout (desktop & mobile friendly)
+- 🖥️ Responsive (desktop & mobile friendly)
 - 🧭 Navigation sidebar similar to Twitter
 - 📝 Tweet feed UI
 - 🔍 Search and trending section
