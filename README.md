@@ -39,15 +39,3 @@ The goal was to closely match the real Twitter interface while keeping the code 
 
 ---
 
-## 📂 Project Structure
-
-```bash
-twitter-frontend/
-│
-├── index.html
-├── /assets
-│   ├── images
-│   └── icons
-├── /css
-│   └── output.css
-└── README.md
