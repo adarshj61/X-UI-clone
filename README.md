@@ -35,7 +35,7 @@ The goal was to closely match the real Twitter interface while keeping the code 
 - **HTML5**
 - **Tailwind CSS**
 - **Flexbox & CSS Grid**
-- **Responsive Design Principles**
+- **Responsive Design **
 
 ---
 
