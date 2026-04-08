@@ -25,7 +25,7 @@ The goal was to closely match the real Twitter interface while keeping the code 
 - 📝 Tweet feed UI
 - 🔍 Search and trending section
 - 👤 Profile preview section
-- 🎨 Clean and modern UI using Tailwind CSS
+- 🎨 Clean and modern User Interface using Tailwind CSS
 - ⚡ Fast loading (no JavaScript frameworks)
 
 ---
