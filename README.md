@@ -1,4 +1,4 @@
-# 🐦 Twitter Frontend Clone
+# 🐦 X Frontend Clone
 
 A responsive **Twitter (X) frontend clone** built using **HTML** and **Tailwind CSS**.  
 This project focuses on recreating the core UI and layout of Twitter with modern utility-first styling and clean, reusable components.
